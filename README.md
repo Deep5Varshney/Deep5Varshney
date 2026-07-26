@@ -121,33 +121,6 @@ A decentralized Ethereum transaction platform integrating MetaMask wallet connec
 
 ---
 
-# 💼 Experience
-
-### 💻 Full Stack Developer
-
-**Ministry of Women & Child Development**
-
-- Built production-ready web applications
-- Developed secure backend APIs
-- Database design and integration
-- Authentication & Authorization
-
----
-
-### 🤖 AI Intern
-
-**Edunet Foundation -**
-
-Worked on AI applications involving:
-
-- Large Language Models
-- Speech Recognition
-- FastAPI
-- Machine Learning
-- Generative AI
-
----
-
 ## 🏆 Achievements
 
 - 🥇 Best Team — HackOnBlocks'24
